@@ -1,0 +1,8 @@
+{
+“name”: “MugBot”,
+“version”: “1.0.0”,
+“description”: “bot in beta”,
+“main”: “bot.js”,
+“author”: “lime”,
+“dependencies”: {}
+}
